@@ -1,43 +1,33 @@
-# Portfólio de Estudos
+# Projetos Python
 
-Bem-vindo ao meu portfólio! Aqui estão meus projetos de estudo em **Python**, **MySQL** e **Power BI**.
+Esta pasta contém meus projetos de estudo em **Python**, desenvolvidos durante o curso online da **DSA (Data Science Academy)**.  
 
----
-
-## Sobre mim
-Olá! Meu nome é Claudinei Moreira e estou me aprofundando em programação e análise de dados.  
-Este repositório contém projetos que fiz durante meus estudos, com foco em desenvolvimento e análise de dados.
+Os scripts foram **aprendidos no Jupyter Notebook** durante o curso e depois **digitados e testados no PyCharm**, focando em análise de dados, automação e pequenos projetos de aprendizado.
 
 ---
 
-## Tecnologias utilizadas
-- **Python**: scripts, análise de dados, automações.
-- **MySQL**: consultas e bancos de dados de teste.
-- **Power BI**: dashboards e visualizações interativas.
+## Arquivos
+
+1. **analise_vendas.py**  
+   - Script para análise de dados de vendas.  
+   - Processa arquivos CSV, calcula métricas de vendas e gera relatórios resumidos.
+
+2. **automacao_email.py**  
+   - Automação de envio de emails utilizando Python.  
+   - Exemplo de uso de bibliotecas como `smtplib` e `email`.
+
+3. **web_scraping.py**  
+   - Coleta de dados de sites para análise.  
+   - Prática de scraping com `BeautifulSoup` e `requests`.
+
+4. **README.md**  
+   - Descrição da pasta e dos projetos.
 
 ---
 
-## Estrutura do repositório
-/python → scripts em Python
-/mysql →
-/powerbi
-LEIA-ME.md → inf
-
-inhame
-
-Copiar código
-
----
-
-## Projetos
-1. **Python**  
-   - Scripts de estudo e pequenos projetos de automação.
-2. **MySQL**  
-   - Consultas e banco de dados para prática de SQL.
-3. **Power BI**  
-   - Dashboards e visualizações interativas de dados.
-
----
-
-## Contato
-- GitHub: [https://github.com/Claudinei2010745](https://github.com/Claudinei2010745)
+## Aprendizado
+- Manipulação de dados com Python (pandas, numpy).  
+- Automação de tarefas e integração com sistemas externos.  
+- Coleta de dados da web e análise exploratória.  
+- Aplicação prática dos conceitos aprendidos no curso online da DSA.  
+- Prática de desenvolvimento em **PyCharm**, com aprendizado inicial no **Jupyter Notebook**.
