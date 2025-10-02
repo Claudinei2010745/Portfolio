@@ -2,7 +2,7 @@
 
 Esta pasta contém meus projetos de estudo em **Python**, desenvolvidos durante o curso online da **DSA (Data Science Academy)**.  
 
-Os scripts focam em análise de dados, automação e pequenos projetos de aprendizado, aplicando conceitos aprendidos no curso.
+Os scripts foram **aprendidos no Jupyter Notebook** durante o curso e depois **digitados e testados no PyCharm**, focando em análise de dados, automação e pequenos projetos de aprendizado.
 
 ---
 
@@ -29,4 +29,6 @@ Os scripts focam em análise de dados, automação e pequenos projetos de aprend
 - Manipulação de dados com Python (pandas, numpy).  
 - Automação de tarefas e integração com sistemas externos.  
 - Coleta de dados da web e análise exploratória.  
-- Aplicação prática dos conceitos aprendidos no curso online da DSA.
+- Aplicação prática dos conceitos aprendidos no curso online da DSA.  
+- Prática de desenvolvimento em **PyCharm**, com aprendizado inicial no **Jupyter Notebook**.
+
