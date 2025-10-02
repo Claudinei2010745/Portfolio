@@ -16,11 +16,6 @@ Os dashboards e visualizações foram criados com foco em análise de dados, apr
    - Análise de comportamento e segmentação de clientes.  
    - Visualizações de clientes ativos, frequência de compras e análise geográfica.
 
-3. **README.md**  
-   - Descrição da pasta e dos projetos.
-
----
-
 ## Aprendizado
 - Criação de dashboards interativos e relatórios visuais.  
 - Conexão com diferentes fontes de dados (Excel, CSV, etc.).  
