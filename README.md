@@ -27,7 +27,7 @@ Bem-vindo ao meu portfólio! Aqui você encontrará meus projetos de estudo em *
 - `diagrama_vendas.sql` → Criação das tabelas e relacionamentos.  
 - `consultas_vendas.sql` → Consultas SQL com `SELECT`, `JOIN` e `GROUP BY`.
 
-[Ver pasta MySQL](mysql/)
+[Ver pasta Mysql](mysql/)
 
 ---
 
