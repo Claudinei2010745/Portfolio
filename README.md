@@ -39,7 +39,7 @@ Bem-vindo ao meu portfólio! Aqui você encontrará meus projetos de estudo em *
 - `dashboard_vendas.pbix` → Dashboard de vendas com KPIs e gráficos interativos.  
 - `dashboard_clientes.pbix` → Análise de comportamento e segmentação de clientes.
 
-[Ver pasta Power BI](powerbi/)
+[Ver pasta Power Bi](powerbi/)
 
 ---
 
