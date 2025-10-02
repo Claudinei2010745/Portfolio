@@ -1,1 +1,1 @@
-Arquivos Mysql de diagramas de vendas, inclusive com primary keys
+Arquivos Mysql de diagramas de vendas em aprendizado na Udemy, inclusive com primary keys.
