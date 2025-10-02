@@ -1,33 +1,58 @@
-# Projetos Python
+# Portfólio de Estudos
 
-Esta pasta contém meus projetos de estudo em **Python**, desenvolvidos durante o curso online da **DSA (Data Science Academy)**.  
-
-Os scripts foram **aprendidos no Jupyter Notebook** durante o curso e depois **digitados e testados no PyCharm**, focando em análise de dados, automação e pequenos projetos de aprendizado.
+Bem-vindo ao meu portfólio! Aqui você encontrará meus projetos de estudo em **Python**, **MySQL** e **Power BI**, desenvolvidos durante cursos online da **DSA (Data Science Academy)** e Udemy.
 
 ---
 
-## Arquivos
+## Projetos
 
-1. **analise_vendas.py**  
-   - Script para análise de dados de vendas.  
-   - Processa arquivos CSV, calcula métricas de vendas e gera relatórios resumidos.
+### 1. Python
+- Scripts e automações de análise de dados, aprendidos no **Jupyter Notebook** e depois digitados e testados no **PyCharm**.  
+- Foco em manipulação de dados, automação e análise exploratória.
 
-2. **automacao_email.py**  
-   - Automação de envio de emails utilizando Python.  
-   - Exemplo de uso de bibliotecas como `smtplib` e `email`.
+**Arquivos:**
+- `analise_vendas.py` → Analisa dados de vendas e gera relatórios resumidos.  
+- `automacao_email.py` → Automação de envio de emails.  
+- `web_scraping.py` → Coleta de dados da web para análise.
 
-3. **web_scraping.py**  
-   - Coleta de dados de sites para análise.  
-   - Prática de scraping com `BeautifulSoup` e `requests`.
-
-4. **README.md**  
-   - Descrição da pasta e dos projetos.
+[Ver pasta Python](python/)
 
 ---
 
-## Aprendizado
-- Manipulação de dados com Python (pandas, numpy).  
-- Automação de tarefas e integração com sistemas externos.  
-- Coleta de dados da web e análise exploratória.  
-- Aplicação prática dos conceitos aprendidos no curso online da DSA.  
-- Prática de desenvolvimento em **PyCharm**, com aprendizado inicial no **Jupyter Notebook**.
+### 2. MySQL
+- Arquivos de banco de dados e diagramas de vendas, criados durante cursos da Udemy.  
+- Incluem **primary keys**, tabelas normalizadas e consultas avançadas.
+
+**Arquivos:**
+- `diagrama_vendas.sql` → Criação das tabelas e relacionamentos.  
+- `consultas_vendas.sql` → Consultas SQL com `SELECT`, `JOIN` e `GROUP BY`.
+
+[Ver pasta MySQL](mysql/)
+
+---
+
+### 3. Power BI
+- Dashboards e visualizações interativas desenvolvidos no curso online da DSA.  
+- Foco em análise de dados e storytelling.
+
+**Arquivos:**
+- `dashboard_vendas.pbix` → Dashboard de vendas com KPIs e gráficos interativos.  
+- `dashboard_clientes.pbix` → Análise de comportamento e segmentação de clientes.
+
+[Ver pasta Power BI](powerbi/)
+
+---
+
+## Estrutura do repositório
+/python → scripts em Python
+/mysql → arquivos e diagramas de banco de dados
+/powerbi → dashboards do Power BI
+README.md → informações do portfólio
+
+yaml
+Copiar código
+
+---
+
+## Contato
+- GitHub: [https://github.com/Claudinei2010745](https://github.com/Claudinei2010745)
